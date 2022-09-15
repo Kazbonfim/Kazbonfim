@@ -1,9 +1,9 @@
-Olá! Meu nome é Lucas, mas pode me chamar de Kaz 😊
-Sou estudante na área de análise e desenvolvimento de sistemas, no momento estudo de forma completamente autônoma através de sites como a Udemy.
-Amo videogames desde que me lembro como gente, e quero um dia criar um só meu heheh
-Pelo visto eu gosto bastante de Javascript, mas tenho um pouco de manejo em HTML e CSS (coisas que aprendi anos atrás mas nunca coloquei em prática até então).
-Tenho alguns projetos pequenos, que costumo fazer upload por aqui e no momento estou tentando desenvolver um jogo de RPG por turnos completamente offline e que rode
-direto do browser (usando apenas JS no momento).
+Olá! Pode ficar á vontade aqui 😊
+Estudante de análise e desenvolvimento, com foco em Web e suas tecnologias.
+Ainda estou engatinhando, por conta disso sempre carrego meu caderno de notas e scripts mentais pra jamais esquecer minhas metas
+😉 HTML > 20%
+😁 CSS3 > 20%
+😎 Javascript > 60%
 
 Sejam bem-vindos!
 <!---
