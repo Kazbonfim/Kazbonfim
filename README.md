@@ -1,12 +1,9 @@
-Olá! Pode ficar á vontade aqui 😊
-Estudante de análise e desenvolvimento, com foco em Web e suas tecnologias.
-Ainda estou engatinhando, por conta disso sempre carrego meu caderno de notas e scripts mentais pra jamais esquecer minhas metas
-😉 HTML > 20%
-😁 CSS3 > 20%
-😎 Javascript > 60%
+### Alas, brave adventurer!
+Nascido e criado em São Paulo! Aspirante á desenvolvedor, ainda em fase de aprendizado. Você pode ficar á vontade para conhecer alguns de meus projetos, ou mesmo entrar em contato através das minhas redes 😉
+Meus conhecimentos atuais, além de HTML5 e CSS, estão voltados á **JavaScript e suas ferramentas** (*Node.js*, e *MongoDB* por exemplo), dos quais são meus focos de estudos atualmente.
 
-Sejam bem-vindos!
-<!---
-Kazbonfim/Kazbonfim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Dá um 'oi' no Twitter >> https://twitter.com/KazBonfim
+* Meu site|portfólio online >> https://kazbonfim.github.io/
+
+##
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs)](https://skills.thijs.gg)
