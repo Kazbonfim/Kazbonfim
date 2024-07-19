@@ -6,4 +6,4 @@ Meus conhecimentos atuais, além de HTML5 e CSS, estão voltados á **JavaScript
 * Meu site | portfólio online >> https://kazbonfim.github.io/
 
 ##
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,github)](https://skillicons.dev)
